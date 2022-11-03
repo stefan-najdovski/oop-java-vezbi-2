@@ -82,8 +82,12 @@ public class Main {
 
 
         String a,b,c;
+        //vo java util msm bese scanner lets try
+
     Scanner scanner1 = new Scanner(System.in);
+
     System.out.println("Vnesi strani:");
+    // na enter se zavrsuva vnesuvanjeto na eden od stranite I guess
     a = scanner1.nextLine();
     b = scanner1.nextLine();
     c = scanner1.nextLine();
