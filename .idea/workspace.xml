@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ff00117-9668-4ae3-b43b-1892350111f6" name="Changes" comment="init commit&#10;Student Class&#10;an Object of the student class" />
+    <list default="true" id="7ff00117-9668-4ae3-b43b-1892350111f6" name="Changes" comment="Vraboten.java">
+      <change afterPath="$PROJECT_DIR$/src/me/snajdovski/vezbi2oop/z03/Covek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/snajdovski/vezbi2oop/z04/Avtomobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/snajdovski/vezbi2oop/z05/Predmet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/snajdovski/vezbi2oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/snajdovski/vezbi2oop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/snajdovski/vezbi2oop/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/snajdovski/vezbi2oop/z01/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/snajdovski/vezbi2oop/Vraboten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/snajdovski/vezbi2oop/z02/Vraboten.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +49,7 @@
       <module name="oop-java-vezbi-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="me.snajdovski.vezbi2oop.*" />
+          <option name="PATTERN" value="me.snajdovski.vezbi2oop.z01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667491277847</updated>
-      <workItem from="1667491280048" duration="1017000" />
+      <workItem from="1667491280048" duration="2776000" />
     </task>
     <task id="LOCAL-00001" summary="init commit&#10;Student Class&#10;an Object of the student class">
       <created>1667492276202</created>
@@ -86,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667492455021</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Vraboten.java">
+      <created>1667492674622</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667492674622</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Vraboten.java">
+      <created>1667492742540</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667492742540</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit&#10;Student Class&#10;an Object of the student class" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit&#10;Student Class&#10;an Object of the student class" />
+    <MESSAGE value="Vraboten.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vraboten.java" />
   </component>
 </project>

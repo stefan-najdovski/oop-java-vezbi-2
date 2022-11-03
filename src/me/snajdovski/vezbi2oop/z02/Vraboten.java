@@ -1,4 +1,4 @@
-package me.snajdovski.vezbi2oop;
+package me.snajdovski.vezbi2oop.z02;
 
 public class Vraboten {
 
