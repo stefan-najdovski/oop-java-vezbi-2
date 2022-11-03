@@ -5,6 +5,10 @@ import me.snajdovski.vezbi2oop.z02.Vraboten;
 import me.snajdovski.vezbi2oop.z03.Covek;
 import me.snajdovski.vezbi2oop.z04.Avtomobil;
 import me.snajdovski.vezbi2oop.z05.Predmet;
+import me.snajdovski.vezbi2oop.z06.Proizvod;
+import me.snajdovski.vezbi2oop.z07.Triagolnik;
+
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -68,5 +72,24 @@ public class Main {
         //Predmet 3
         predmet3.imeNaPredmet = "Sistemski Softver";
         System.out.println("Predmetot se vika " + predmet3.imeNaPredmet);
+
+
+        //Zadaca 6
+        Proizvod proizvodCokolado = new Proizvod();
+        System.out.println("Cenata na cokoladoto so tezina:" + proizvodCokolado.tezina + "g iznesuva " + proizvodCokolado.cena + " denari.");
+
+        //Zadaca 7
+
+
+        String a,b,c;
+    Scanner scanner1 = new Scanner(System.in);
+    System.out.println("Vnesi strani:");
+    a = scanner1.nextLine();
+    b = scanner1.nextLine();
+    c = scanner1.nextLine();
+
+        Triagolnik t1 = new Triagolnik(a,b,c);
+        System.out.println("Perimetarot na triagolnikot e: " + t1.perimetarNaTriagolnik());
+        System.out.println("Plostinata na triagolnikot e: " + t1.plostinaNaTriagolnik());
     }
 }
