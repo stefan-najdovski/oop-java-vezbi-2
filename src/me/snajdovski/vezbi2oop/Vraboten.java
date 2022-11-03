@@ -1,13 +1,14 @@
 package me.snajdovski.vezbi2oop;
 
 public class Vraboten {
+
+    //Attributes of the class
     public String name;
     public String surname;
     public int salary;
 
-    public Vraboten(){}
-
-    public Vraboten(String name, String surname, int salary) {
+    //Constructor with static params
+    public Vraboten() {
         //staticni parmetri
         this.name = "Aleksandar";
         this.surname = "Spirovski";
